@@ -1,0 +1,4 @@
+migrations/0*
+*.pyc
+.idea
+*/migrations/000*
